@@ -1,0 +1,15 @@
+# Terraform
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+
+# Docker
+*.log
+
+# LocalStack
+localstack_data/
+
+# OS
+.DS_Store
+Thumbs.db
